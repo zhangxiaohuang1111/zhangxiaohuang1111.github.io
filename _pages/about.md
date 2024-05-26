@@ -58,4 +58,5 @@ I have a lot of hobbies and interests and here are some of them.
 - Video Games (League of Legends, Overwatch, etc)
 
 If you are willing to teach me your hobbies, I would be happy to learn.
+
 BTW, my MBTI is ENTP and my sign is Scorpio.
