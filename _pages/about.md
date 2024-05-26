@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, there~
+Hello, there~ image/kenobi-pog.gif
 
 My name is Zhangxiao Huang (黄张骁). You can also me Sean for short (Sean resembles ‘Xiao’ in pronunciation).
 
