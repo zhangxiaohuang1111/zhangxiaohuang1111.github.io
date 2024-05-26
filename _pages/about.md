@@ -32,5 +32,5 @@ Cornell University. Major in Electrical and Computer Engineering.
 
 # CV
 
-<a href="/files/CV.pdf" download>Download my CV.</a>
+<a href="/files/CV.pdf" download>Download my CV here.</a>
 
