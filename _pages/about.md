@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, there. 
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d7addbcb-78da-4b9a-bcb8-09ccd576c5db/c31aa766-7789-4466-bdb8-7c0c5a94f07a/Untitled.gif)
+Hello, there~
 
 My name is Zhangxiao Huang (黄张骁). You can also me Sean for short (Sean resembles ‘Xiao’ in pronunciation).
 
