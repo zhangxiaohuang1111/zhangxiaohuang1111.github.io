@@ -10,7 +10,7 @@ main:
     url: "/#educations"
 
   - title: "CV"
-    url: /cv/
+    url: /#CV/
     
   - title: "Miscellaneous"
     url: /markdown/
