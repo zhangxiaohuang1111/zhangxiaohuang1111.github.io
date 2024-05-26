@@ -57,4 +57,5 @@ I have a lot of hobbies and interests and here are some of them.
 - Guitar
 - Video Games (League of Legends, Overwatch, etc)
 
-BTW, if you are willing to teach me your hobbies, I would be happy to learn.
+If you are willing to teach me your hobbies, I would be happy to learn.
+BTW, my MBTI is ENTP and my sign is Scorpio.
