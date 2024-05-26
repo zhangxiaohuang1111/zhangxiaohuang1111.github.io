@@ -56,9 +56,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        :https://www.instagram.com/seanhuang1111/ # Username
+  Instagram        : https://www.instagram.com/seanhuang1111/ # Username
   lastfm           : # Username
-  linkedin         :www.linkedin.com/in/zhangxiao-huang # Username
+  linkedin         : www.linkedin.com/in/zhangxiao-huang # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -72,7 +72,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            :https://www.zhihu.com/people/meng-meng-meng-meng-xin-54 # URL
+  zhihu            : https://www.zhihu.com/people/meng-meng-meng-meng-xin-54 # URL
 
 
 # Site Settings
