@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhangxiao Huang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zhangxiao Huang"
 description              : &description "personal description"
