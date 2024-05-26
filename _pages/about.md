@@ -17,4 +17,8 @@ I am a senior student at the [School of Information and Communication Engineerin
 
 This fall, I will become an M.Eng. student at the [School of Electrical and Computer Engineering](https://www.ece.cornell.edu/ece), [Cornell University](https://www.cornell.edu/). My interests broadly lie in digital circuits and computer architecture. Currently, I aim to boost the development of AI and help AI better learn from the real world. I am open to learning anything, as long as it is technology-related and human-friendly.
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> Total views. Total visitors.
+# News
+
+# Educations
+- 2020.9 - 2024.6: Dalian University of Technology. Major in Information and Communication Engineering.
+- 2024.8 - Present: Cornell University. Major in Electrical and Computer Engineering.
