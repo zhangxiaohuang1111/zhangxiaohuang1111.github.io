@@ -41,7 +41,7 @@ Cornell University. Major in Electrical and Computer Engineering.
 
 Second-Class Excellent Scholarship (2022-2023 Academic Year)
 
-# CV
+# Curriculum Vitae
 
 <a href="/files/CV.pdf" download>Download my CV here.</a>
 
