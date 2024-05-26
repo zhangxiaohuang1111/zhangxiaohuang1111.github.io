@@ -34,4 +34,5 @@ Cornell University. Major in Electrical and Computer Engineering.
 
 [Download CV.pdf](https://github.com/zhangxiaohuang1111/zhangxiaohuang1111.github.io/blob/master/files/CV.pdf)
 <a href="https://github.com/zhangxiaohuang1111/zhangxiaohuang1111.github.io/blob/master/files/CV.pdf" download>下载</a>
+<a href="/files/CV.pdf" download>Link text</a>
 
