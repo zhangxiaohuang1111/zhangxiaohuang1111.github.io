@@ -29,3 +29,6 @@ Dalian University of Technology. Major in Information and Communication Engineer
 - 2024.8 - Present:
 
 Cornell University. Major in Electrical and Computer Engineering.
+
+# CV
+
