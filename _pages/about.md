@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# About me
+# About Me
 
 Hello, there~ <br/><img src='/images/kenobi-pog.gif'>
 
@@ -29,6 +29,17 @@ Dalian University of Technology. Major in Information and Communication Engineer
 - 2024.8 - Present:
 
 Cornell University. Major in Electrical and Computer Engineering.
+
+# Projects
+
+- Hardware Acceleration: Matrix Multiplication Optimization and Testing on KV260
+- Time Series Forecasting Method Based on Time-Frequency Features (Undergraduate Thesis)
+- Telecommunication platform realization on FPGA
+- Slag Eye Identification Based on Object Detection
+
+# Honors and Awards
+
+Second-Class Excellent Scholarship (2022-2023 Academic Year)
 
 # CV
 
