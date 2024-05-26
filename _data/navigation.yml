@@ -13,10 +13,10 @@ main:
     url: "/#projects"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Curriculum Vitae"
-    url: "/#Curriculum-Vitae"
+    url: "/#curriculum-vitae"
     
   - title: "Miscellaneous"
-    url: /Miscellaneous/
+    url: /miscellaneous/
