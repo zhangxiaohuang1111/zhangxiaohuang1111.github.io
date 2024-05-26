@@ -11,7 +11,7 @@ redirect_from:
 
 Hello, there~ <br/><img src='/images/kenobi-pog.gif'>
 
-My name is Zhangxiao Huang (黄张骁). You can also me Sean for short (Sean resembles ‘Xiao’ in pronunciation).
+My name is Zhangxiao Huang (黄张骁). You can also call me Sean for short (Sean resembles ‘Xiao’ in pronunciation).
 
 I am a senior student at the [School of Information and Communication Engineering](https://ice.dlut.edu.cn/), [Dalian University of Technology](https://en.dlut.edu.cn/) right now, and will graduate in June.
 
