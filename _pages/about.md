@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# About
+# About me
 
 Hello, there~ <br/><img src='/images/kenobi-pog.gif'>
 
