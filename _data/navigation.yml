@@ -20,9 +20,3 @@ main:
     
   - title: "Miscellaneous"
     url: "/#miscellaneous"
-
-  - title: "test1"
-    url: /markdown/
-    
-  - title: "test2"
-    url: /test/
