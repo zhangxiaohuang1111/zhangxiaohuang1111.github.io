@@ -7,7 +7,7 @@ main:
     url: "/#news"
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /test/
 
   - title: "Educations"
     url: "/#educations"
