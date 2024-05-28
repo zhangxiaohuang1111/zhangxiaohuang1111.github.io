@@ -1,12 +1,24 @@
 ---
-permalink: /test1/
-title: "test1"
+permalink: /miscellaneous/
+title: "Miscellaneous"
 author_profile: true
 redirect_from: 
-  - /test/
-  - /test1.html
+  - /miscellaneous/
+  - /miscellaneous.html
 ---
 
-test123test123test123test123test123test123test123test123
-test123test123test123test123test123test123
-test123test123test123test123test123test123
+# Miscellaneous
+
+I have a lot of hobbies and interests and here are some of them.
+
+- Gym
+- Running/Jogging
+- Basketball
+- Tennis
+- Music
+- Guitar
+- Video Games (League of Legends, Overwatch, etc)
+
+If you are willing to teach me your hobbies, I would be happy to learn.
+
+BTW, my MBTI is ENTP and my sign is Scorpio.
