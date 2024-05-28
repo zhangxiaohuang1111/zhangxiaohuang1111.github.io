@@ -3,7 +3,7 @@ permalink: /miscellaneous/
 title: "Miscellaneous"
 author_profile: true
 redirect_from: 
-  - /miscellaneous/
+  - /misc/
   - /miscellaneous.html
 ---
 
