@@ -18,8 +18,8 @@ main:
   - title: "Curriculum Vitae"
     url: "/#curriculum-vitae"
     
-  - title: "Miscellaneous"
-    url: "/#miscellaneous"
+  #- title: "Miscellaneous"
+  #  url: "/#miscellaneous"
     
-  - title: "test1"
-    url: /test1/
+  - title: "Miscellaneous"
+    url: /miscellaneous/
