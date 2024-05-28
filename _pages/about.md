@@ -43,9 +43,6 @@ Second-Class Excellent Scholarship (2022-2023 Academic Year)
 
 # Curriculum Vitae
 
-<a href="/files/CV.pdf" download>Download my CV here.</a>
-
-
 <div class="mb-5" id="CV">
   <p><a href="/files/CV.pdf" target="_blank">
       Check out my CV here.</a>
