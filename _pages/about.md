@@ -47,8 +47,7 @@ Second-Class Excellent Scholarship (2022-2023 Academic Year)
 
 
 <div class="mb-5" id="CV">
-  <h4>CV</h4>
-  <p><a href="files/CV.pdf" target="_blank">
-      <i class="bi bi-file-earmark-person"></i> Check out my CV here.</a>
+  <p><a href="/files/CV.pdf" target="_blank">
+      Check out my CV here.</a>
   </p>
 </div>
