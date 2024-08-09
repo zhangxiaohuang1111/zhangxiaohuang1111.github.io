@@ -41,10 +41,10 @@ Cornell University. Major in Electrical and Computer Engineering.
 
 Second-Class Excellent Scholarship (2022-2023 Academic Year)
 
-# Curriculum Vitae
+# Resume
 
-<div class="mb-5" id="CV">
-  <p><a href="/files/CV.pdf" target="_blank">
-      Check out my CV here.</a>
+<div class="mb-5" id="Resume">
+  <p><a href="/files/resume_zhangxiao_huang.pdf" target="_blank">
+      Check out my resume here.</a>
   </p>
 </div>
