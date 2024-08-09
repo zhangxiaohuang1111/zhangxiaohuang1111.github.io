@@ -19,14 +19,14 @@ This fall, I will become an M.Eng. student at the [School of Electrical and Comp
 
 # News
 
-2024.5.26: Today I finally got my personal website. Hooray!!!
+5.26.2024: Today I finally got my personal website. Hooray!!!
 
 # Educations
-- 2020.9 - 2024.6:
+- Sep 2020 - Jun 2024 :
 
 Dalian University of Technology. Major in Information and Communication Engineering.
 
-- 2024.8 - Present:
+- Aug 2024 - Present :
 
 Cornell University. Major in Electrical and Computer Engineering.
 
