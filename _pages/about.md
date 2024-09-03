@@ -20,6 +20,7 @@ I am looking for a job on digital IC. Any related job offers/internship opportun
 # News
 
 08/26/2024: Today I started my journey at Cornell Universiy.
+
 05/26/2024: Today I finally got my personal website. Hooray!!!
 
 # Educations
