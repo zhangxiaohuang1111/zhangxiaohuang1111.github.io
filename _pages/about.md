@@ -23,13 +23,13 @@ I am looking for a job on digital IC. Any related job offers/internship opportun
 05/26/2024: Today I finally got my personal website. Hooray!!!
 
 # Educations
-- Sep 2020 - Jun 2024 :
-
-Dalian University of Technology. Major in Information and Communication Engineering.
-
 - Aug 2024 - Present :
 
 Cornell University. Major in Electrical and Computer Engineering.
+
+- Sep 2020 - Jun 2024 :
+
+Dalian University of Technology. Major in Information and Communication Engineering.
 
 # Projects
 
