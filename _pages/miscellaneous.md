@@ -21,4 +21,4 @@ I have a lot of hobbies and interests and here are some of them.
 
 If you are willing to teach me your hobbies, I would be happy to learn.
 
-BTW, my MBTI is ENTP and my sign is Scorpio.
+BTW, my MBTI is ENTP/ENTJ and my sign is Scorpio.
