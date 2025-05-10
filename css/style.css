@@ -406,4 +406,15 @@ footer p {
   color: #000 !important;
 }
 
+/* Make Projects section more readable 增加可读性，仅影响Projects部分 */
+#projects ul {
+  line-height: 1.8; /* Increase line height 增加行距 */
+  font-size: 1.15em; /* Slightly larger font 稍微增大字体 */
+  margin-bottom: 0;
+  padding-left: 20px;
+}
+#projects ul li {
+  margin-bottom: 18px; /* Add space between items 每个项目之间增加间距 */
+}
+
 
